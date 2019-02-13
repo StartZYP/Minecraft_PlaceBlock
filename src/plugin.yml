@@ -1,0 +1,6 @@
+name: PlaceBlock
+main: com.qq44920040.Minecraft.PlaceBlock.PluginMain
+version: 1.0
+author: q44920040
+commands:
+  pd:

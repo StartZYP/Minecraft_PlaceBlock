@@ -1,0 +1,7 @@
+World:
+  - 'world'
+  - 'DIM1'
+ItemKeyValue:
+  - '3:0-7:0'
+  - '5:0-8:0'
+Msg: '§c§l不可以再此方块旁边放置它'
